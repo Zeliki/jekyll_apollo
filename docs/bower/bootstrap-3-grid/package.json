@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-3-grid",
+  "version": "0.0.1",
+  "description": "Only grid and responsive classes",
+  "main": "bootstrap-3-grid.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StefanoVollono/bootstrap-3-grid.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "grid",
+    "css",
+    "responsive"
+  ],
+  "author": "Stefano Vollono",
+  "license": "MIT",
+  "homepage": "https://github.com/StefanoVollono/bootstrap-3-grid"
+}

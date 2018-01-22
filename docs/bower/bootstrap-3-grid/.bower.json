@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-3-grid",
+  "version": "0.0.1",
+  "authors": [
+    "Stefano Vollono"
+  ],
+  "description": "Only grid and responsive classes",
+  "main": "bootstrap-3-grid.css",
+  "keywords": [
+    "bootstrap",
+    "css",
+    "grid",
+    "responsive"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/StefanoVollono/bootstrap-3-grid",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.1",
+    "commit": "0450c2a34ff37ced00fb65c5277c19e9057fb6ff"
+  },
+  "_source": "https://github.com/StefanoVollono/bootstrap-3-grid.git",
+  "_target": "^0.0.1",
+  "_originalSource": "bootstrap-3-grid",
+  "_direct": true
+}
